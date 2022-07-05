@@ -20,6 +20,9 @@
             <asp:ListBox ID="lst_dadis" runat="server"></asp:ListBox>
             <br />
             <br />
+            <asp:HyperLink runat="server" NavigateUrl="~/WebForm2.aspx">Abrir WebForm2</asp:HyperLink>
+            <br />
+            <br />
             Para inserir<br />
             <br />
             Nome:

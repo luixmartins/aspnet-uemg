@@ -93,6 +93,8 @@ namespace first_db_connection
                     txt_email.Text = "";
 
                     txt_nome.Focus();
+
+                    Response.Redirect("WebForm2.aspx");
                 }
                 catch(MySqlException err)
                 {
