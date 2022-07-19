@@ -42,6 +42,24 @@ namespace first_db_connection
         protected global::System.Web.UI.WebControls.Label lbl_text;
 
         /// <summary>
+        /// btn_pdf control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btn_pdf;
+
+        /// <summary>
+        /// btn_gerar control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btn_gerar;
+
+        /// <summary>
         /// HyperLink1 control.
         /// </summary>
         /// <remarks>

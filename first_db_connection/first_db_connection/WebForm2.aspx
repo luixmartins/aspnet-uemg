@@ -13,6 +13,10 @@
             </asp:GridView>
             <br />
             <asp:Label ID="lbl_text" runat="server"></asp:Label>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <asp:Button ID="btn_pdf" runat="server" OnClick="btn_pdf_Click" Text="Imprimir" />
+&nbsp;
+            <asp:Button ID="btn_gerar" runat="server" OnClick="btn_gerar_Click" Text="Gerar Download" Width="139px" />
             <br />
             <br />
             <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/WebForm1.aspx">Voltar WebForm1</asp:HyperLink>

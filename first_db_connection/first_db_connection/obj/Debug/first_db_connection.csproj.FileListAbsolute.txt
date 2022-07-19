@@ -79,3 +79,5 @@ D:\Repositories\aspnet-uemg\first_db_connection\first_db_connection\obj\Debug\fi
 D:\Repositories\aspnet-uemg\first_db_connection\first_db_connection\obj\Debug\first_db_connection.csproj.CopyComplete
 D:\Repositories\aspnet-uemg\first_db_connection\first_db_connection\obj\Debug\first_db_connection.dll
 D:\Repositories\aspnet-uemg\first_db_connection\first_db_connection\obj\Debug\first_db_connection.pdb
+D:\Repositories\aspnet-uemg\first_db_connection\first_db_connection\bin\itextsharp.dll
+D:\Repositories\aspnet-uemg\first_db_connection\first_db_connection\bin\itextsharp.xml
